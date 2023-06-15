@@ -1,0 +1,16 @@
+font(
+    Poppins=normal=400=16px
+    Poppins=normal=700=48px=lh=70px
+    poppins=normal=500
+
+
+    roboto=400=
+    
+)
+
+color(
+    color: #FD511A; Ylw
+    color: #21B573; Green
+)
+
+font-family: 'Poppins', sans-serif;
